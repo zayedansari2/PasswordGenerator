@@ -1,7 +1,7 @@
 # PasswordGenerator
 Create a strong password
 
-<img width="254" alt="image" src="https://github.com/user-attachments/assets/55f072da-3f3e-4607-b714-4bd235010021" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/55f072da-3f3e-4607-b714-4bd235010021" />
 
 
 **Characteristics of a Strong Password:**
@@ -10,9 +10,7 @@ Create a strong password
   
   **Complexity**:
     Include uppercase and lowercase letters.
-    
     Use numbers (e.g., 0-9).
-    
     Include special characters (e.g., !@#$%^&*()).
     
   **Unpredictability:** Avoid predictable patterns like 123456, password, or personal information (e.g., names, birthdates).
