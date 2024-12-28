@@ -10,7 +10,9 @@ Create a strong password
   
   **Complexity**:
     Include uppercase and lowercase letters.
+    
     Use numbers (e.g., 0-9).
+    
     Include special characters (e.g., !@#$%^&*()).
     
   **Unpredictability:** Avoid predictable patterns like 123456, password, or personal information (e.g., names, birthdates).
@@ -23,7 +25,10 @@ Create a strong password
     Avoid using whole dictionary words or phrases, especially in common sequences (e.g., iloveyou, qwerty).
     
 **Examples of Strong Passwords:**
+
 dR8@jF#kLz12!cV
+
 T!m3T0Sh1ne2024^
+
 2X8p$kNeW#Go9fQz
 
