@@ -1,7 +1,7 @@
 # PasswordGenerator
 Create a strong password
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/55f072da-3f3e-4607-b714-4bd235010021" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/55f072da-3f3e-4607-b714-4bd235010021" />
 
 
 **Characteristics of a Strong Password:**
